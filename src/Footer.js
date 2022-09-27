@@ -13,7 +13,7 @@ export default function Footer() {
         </a>
         by Natalia Lloyd and
         <a
-          href="https://teal-swan-50c4fb.netlify.app/"
+          href="https://deft-halva-75b2d5.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
