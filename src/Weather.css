@@ -1,0 +1,82 @@
+body {
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/035/903/original/background-3.jpg?1654017158");
+  background-size: cover;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #212121;
+}
+
+.condition-icons {
+  padding: 8px;
+}
+
+.current-temperature-container {
+  margin: 5px 12px;
+}
+
+.current-temperature-container .temperature {
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 10px;
+}
+
+.current-temperature-container .units {
+  position: relative;
+  top: -43px;
+  font-size: 25px;
+}
+
+.description {
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 17px;
+  text-transform: capitalize;
+}
+
+.weather-app {
+  background: #ffff;
+  border-radius: 15px;
+  box-shadow: 0 20px 40px rgb(65 50 100 / 20%);
+  font-family: "Comfortaa", cursive;
+  opacity: 90%;
+  padding: 15px;
+}
+
+.weather-app-wrapper {
+  margin: 60px auto;
+  max-width: 800px;
+}
+
+.weather-icon {
+  margin-top: 22px;
+}
+
+.timestamp {
+  font-size: 12px;
+}
+
+.weather-forecast {
+  line-height: 1.5;
+  margin-top: 75px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 16px;
+}
+
+.weather-forecast-temperatures {
+  color: #117a8b;
+  font-size: 18px;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.6;
+}
+
+.weather-info {
+  margin: 8px;
+}
